@@ -1,0 +1,18 @@
+{
+  "gemini_key": "",
+  "gemini_model": "gemini-2.5-flash-lite",
+  "provider": "gemini",
+  "openai": {"base_url": "https://api.openai.com/v1", "key": "", "model": "gpt-4o-mini"},
+  "anthropic": {"key": "", "model": "claude-haiku-5-5"},
+  "auto_fallback": true,
+  "chunk_size": 20,
+  "tts_model": "gemini-2.5-flash-preview-tts",
+  "tts_voice": "Kore",
+  "image_max_side": 512,
+  "tag": "ai-card-filler",
+  "fill_tag": "ai-filled",
+  "last_deck": 0,
+  "extra": "",
+  "types": {},
+  "open_on_add": false
+}
